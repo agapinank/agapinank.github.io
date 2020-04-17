@@ -6,6 +6,7 @@
  <title>All About Kasey</title>
 </head>
 <body>
+ <div>Some text about me... to</div>
 
 </body>
 </html>
